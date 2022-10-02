@@ -1,5 +1,5 @@
 const buttonCadastrar = document.getElementById("cadastrar");
-const URL_API = "https://trabalho-programacao-script.herokuapp.com/empregados";
+const URL_API = "https://programacao-script-backend.herokuapp.com/empregados";
 const idInput = document.getElementById("id");
 const nomeInput = document.getElementById("nome");
 const funcaoInput = document.getElementById("funcao");
